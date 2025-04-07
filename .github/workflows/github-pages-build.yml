@@ -9,7 +9,7 @@ permissions:
       pages: write
       id-token: write
       contents: read
-      
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,6 +30,10 @@ jobs:
 
       - name: Build
         run: bundle exec jekyll build
+
+      - name: Remove .lock file
+        run: |
+          find ./_site -name "*.lock" -delete
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
