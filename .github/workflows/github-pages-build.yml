@@ -36,9 +36,9 @@ jobs:
           find ./_site -name "*.lock" -delete
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
+        id: deployment
         with:
-          name: github-pages
           path: ./_site
 
   deploy:
