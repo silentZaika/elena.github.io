@@ -35,6 +35,24 @@ github_username:  jekyll
 # Build settings
 # theme: minima
 theme: cvless
+
+# author settings
+author:
+  name: Elena Savinova
+  email: el.savinova@gmail.com
+photo: assets/photo.jpg
+address: Foobar Hall 1.23
+phone: +1 234 567 890
+
+# profile links
+profile:
+  facebook: https://www.facebook.com/share/15zx6v8Frf/?mibextid=wwXIfr
+  x: https://x.com/silentzaika    
+  instagram: https://www.instagram.com/silentzaika/
+  linkedin: https://www.linkedin.com/in/elena-savinova/
+  github: https://github.com/silentzaika
+
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -47,11 +65,12 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
+  - Gemfile
+  - REAMME.md
 #   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
