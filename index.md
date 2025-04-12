@@ -9,4 +9,6 @@ A result-oriented quality leader with a strong background in testing and automat
 
  [Click here](cv) to see the full CV, and [here](/assets/CV_Olena_Savinova.pdf) to download a print version. 
 
+{% include contact.html %}
+
 {% include archive.html %}
