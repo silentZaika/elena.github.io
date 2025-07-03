@@ -5,9 +5,9 @@ title: Home
 
 # About
 
-A result-oriented quality leader with a strong background in testing and automation. Experienced in managing distributed multi-cultural teams in a fast-paced environment. Strong communicator with a focus on fostering collaboration and delivering improvements in product quality.
+Engineering leader with 15+ years of experience in software development, quality engineering and leadership. Proven track record in leading multi-national, distributed teams in fast-paced environments. Adept at driving engineering excellence, setting strategic direction and fostering inclusive and high-performing team cultures. Known for balancing technical quality and accelerating product delivery through automation, tooling and cross-team collaboration.
 
- [Click here](cv) to see the full CV, and [here](/assets/CV_Olena_Savinova.pdf) to download a print version. 
+ [Click here](cv) to see the full CV, and [here](/assets/CV Olena Savinova - Engineering Leader.pdf) to download a print version. 
 
 ## Growth & Guidance Session
 

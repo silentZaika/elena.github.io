@@ -3,49 +3,55 @@ layout: home
 title: Experience
 ---
 
-# Experience   {% include download.html icon="svg/download.svg" href="/assets/CV_Olena_Savinova.pdf"  %}
+# Experience   {% include download.html icon="svg/download.svg" href="/assets/CV Olena Savinova - Engineering Leader.pdf"  %}
 
 #### Head of QA | Babbel
 *September 2022 - Present,  Berlin*
 
-**Responsibilities:**
-+ Managed 25 people across 4 teams of Quality Engineers, focusing on product quality, test frameworks, and tooling.
-+ Defined the overall quality strategy for the company, goals and metrics
-+ Guided and mentored team members for their professional and career growth
-+ Responsible for interviewing and hiring new talent, as well as planning headcount.
-+ Oversaw the adoption of new tools and handled vendor contract negotiations and management.
-+ Worked closely with other departments to drive quality improvements across the product.
++ Led Quality engineering department (4 direct reports, 25 total) across multiple product teams, setting vision and strategy for quality.
++ **Reduced mobile release cycle time by ~20%** by implementing a risk-based testing approach.
++ Standardised the bug workflow across all engineering teams, **decreasing bug backlog by 40%**.
++ Successfully **led cross-company coordination** for high-visibility projects like the rebrand, delivered on time with zero critical regressions.
++ Introduced static code analysis and quality gates, empowering product teams to **iterate faster without sacrificing quality**.
++ Led strategic Shift Left initiative, integrating testing as early as possible in the development lifecycle and redefined QA role and processes.
++ Oversaw hiring, headcount planning, and vendor management.
++ Collaborated with product and engineering leadership to define team OKRs and align quality initiatives with product delivery goals
++ Developed a career development framework, creating growth plans and mentoring engineers into senior and leadership roles.
 
-**Achievements:**
-+ Redefined QA roles and processes, including upskilling the team, to support the strategic Shift Left initiative, which focused on integrating testing as early as possible in the development lifecycle.
-+ Reduced the product bug backlog by 40% through standardizing and unifying a bug workflow across all engineering teams, implementing key metrics and SLOs to improve resolution efficiency
-+ Shortened mobile release times by several days by implementing a risk-based testing approach
-+ Organized and drove cross-company testing efforts for the Rebrand project, ensuring it was delivered on time without compromising quality.
-+ Expanded test automation capabilities and testing pipelines through initiatives like contract testing, quality gates and  introducing static code analysis to support the Shift Left initiative, empowering product teams to iterate faster without sacrificing quality
 
 #### Quality Manager | Unity Engine | Unity Technologies
 *February 2021 - August 2022,  Berlin*
-#### Quality Lead | Unity Engine | Unity Technologies
 *September 2015 - February 2021,  Odesa*
-+ Managed several distributed multi-cultural teams of senior Quality Engineers across all Foundation areas
-+ Established and led  a team of student workers to assist with the  quality efforts in the Foundation teams, with all members later transitioning to full-time roles
-+ Collaborated with engineering leadership (Performance,  .Net Tech, Asset Pipeline) to drive continuous  quality improvements and promote a strong quality mindset 
-+ Mentored and coached the team members to grow personally and as a team
-+ Was responsible for interviewing and hiring new talent for my teams and contributed to the hiring efforts within the engineering 
-+ Was responsible for building the quality strategy and goals for the department
-+ Increased visibility of overall quality efforts  in the department by developing tools, dashboards, and metrics to track progress
-+ Collaborated with the Developer Experience team on the project  addressing test automation instabilities
-+ Engaged  with customers and represented Unity brand on the  forums and game conferences local to Ukraine
-Technologies and tools: C# (.Net, Mono) Mercurial/Git, Fogbugz, JIRA, TestRail, NUnit, Katana(Buildbot), Grafana
+
++ Led three distributed teams of senior engineers in the platform and foundation areas.
++ Created a student worker programme that converted 100% into successful full-time hires.
++ Established  internal metrics and dashboards  to drive continuous  quality improvements and promote a strong quality mindset.
++ Partnered with the Developer Experience team to stabilise test infrastructure and reduce flaky test incidents.
++ Owned department-level quality strategy and worked directly with Engineering Directors on shared goals.
++ Contributed to cross-department hiring efforts, including interview design and DEI initiatives.
++ Represented Unity on forums and industry conferences in Eastern Europe.
+
 
 #### Software Developer in Test | Unity Engine | Unity Technologies
 *July  2012 - September 2015, Odesa*
 
-#### Automation QA Engineer | HP BSM & HP SiteScope
-*2009 - July  2012, Odesa*
++ Developed internal frameworks and automated testing tools using C#, improving test coverage by 60% across several engine areas.
++ Drove early bug detection and developer education around testability and quality practices.
++ Organised company-wide bug bashes and internal game jams to encourage engagement with product testing.
++ Acted as a customer advocate by relaying feedback from Unity’s user forums into engineering priorities.
 
-#### QA Engineer | HP BSM
-*2008 - 2009, Odesa*
+
+#### QA Engineer -> Automation QA Engineer | HP BSM & HP SiteScope
+*2008 - July  2012, Odesa*
+
++ Designed and maintained test automation using Java, QTP, and in-house tools.
++ Led test coverage efforts and collaborated with dev teams on release readiness.
++ Implemented automation tools to replace repetitive manual test tasks.
++ Managed service pack releases and post-release validation workflows.
+
+# Core Competencies
+Engineering Leadership, Team management, Cross-functional collaboration, Quality strategy, Test automation, Developer experience, Hiring, Mentorship, Career Development, Goal setting, Performance Management, Static analysis, Release management, C#, Mercurial, Git, Fogbugz, JIRA, TestRail, NUnit, WebDriver, Playwright, Docker, Dev containers, Deepsource, Test automation frameworks, Github actions, Grafana, Python (basic), Ruby (basic), AppScript (basic), Tableau
+
 
 # Education
 
